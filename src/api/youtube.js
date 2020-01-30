@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const KEY = 'AIzaSyBAq5HzfLachU-S4gbdzYTJN4xcvpq0aPE';
+const KEY = 'insert key here';
 
 export default axios.create({
     //setup for this found here https://developers.google.com/youtube/v3/docs/search/list
